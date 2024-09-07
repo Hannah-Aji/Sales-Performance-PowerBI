@@ -57,16 +57,5 @@ For pushing changes:
 git push origin main
 ```
 
-### Raise Issues
-Encounter a bug or have a feature request? Raise an issue on the [GitHub Issues](https://github.com/virajbhutada/Sales-Analysis-PowerBI/issues) page to facilitate effective communication and resolution.
-
-
-## Contributing and Project Structure
-*Stay connected with the project's development. Explore our [Contribution Guidelines](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/CONTRIBUTING.md) and understand the [Project Structure](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/docs/project-structure.md) for a seamless contribution experience.*
-
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/virajbhutada/Sales-Analysis-PowerBI/blob/main/LICENSE) file for details.
-
-### Now, dive into the code and data to unlock a world of insights. Happy analyzing!
