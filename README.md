@@ -23,7 +23,7 @@ Unveiling a comprehensive Sales Analysis Power BI Dashboard meticulously crafted
 ---
 
 ## Project Preview
-![Sales Analysis Power BI Dashboard](https://github.com/virajbhutada/Sales-Analysis-PowerBI/assets/143819712/7a5bcd21-0750-42b4-8d61-049871dd2634)
+![Sales Analysis Power BI Dashboard](https://github.com/Hannah-Ajibola/Sales-Performance-PowerBI/blob/cf23404440bb1612b02bdfba573afeaedab3b7b1/assets/preview.jpg)
 *Explore the captivating visualizations and dynamic insights encapsulated in our Sales Analysis Power BI Dashboard. Witness the fusion of data-driven precision and intuitive design, providing a seamless experience for uncovering actionable insights.*
 
 ---
@@ -34,7 +34,7 @@ Unveiling a comprehensive Sales Analysis Power BI Dashboard meticulously crafted
 Begin by cloning the repository to your local machine. Use the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/virajbhutada/Sales-Analysis-PowerBI.git
+git clone https://github.com/Hannah-Ajibola/Sales-Performance-PowerBI.git
 ```
 
 ### Navigate to the Project Directory
