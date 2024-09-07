@@ -1,4 +1,4 @@
-# Sales Analysis Power BI 
+# Sales Analysis using Power BI 
 
 ## Project Overview
 
